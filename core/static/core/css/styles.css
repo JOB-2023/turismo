@@ -1,0 +1,73 @@
+/* Estilo de fondo celeste para el cuerpo de la página */
+body {
+    background-color: #B4E6E6;
+}
+
+/* Estilo para el encabezado (dorados) */
+header {
+    background-color: #FFD700; /* Dorado */
+    color: white;
+    padding: 10px;
+}
+
+/* Estilo para el pie de página (dorados) */
+footer {
+    background-color: #FFD700; /* Dorado */
+    color: white;
+    padding: 10px;
+}
+
+/* Estilo para los enlaces */
+a {
+    color: #0077FF; /* Celeste para los enlaces */
+}
+
+/* Estilo para el texto principal (blanco) */
+.main-text {
+    color: white;
+}
+
+/* Estilo para el botón dorado */
+.btn-gold {
+    background-color: #FFD700;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+
+}
+
+textarea {
+    height: 90vh;
+    width: 80%;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
